@@ -1,4 +1,4 @@
-# ❗❗ ChallengeDecodificador de Texto - ONE ❗❗
+# ❗❗ Challenge Decodificador de Texto - ONE ❗❗
 
 Seja bem-vindo(a) ao repositório do Challenge Decodificador de Texto - Oracle Next Education.
 
